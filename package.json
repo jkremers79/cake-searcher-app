@@ -1,0 +1,19 @@
+{
+  "name": "cake_searcher",
+  "version": "1.0.0",
+  "description": "Search engine for cake recipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "cake",
+    "cake_searcher",
+    "search_machine"
+  ],
+  "author": "Jorn Kremers",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
